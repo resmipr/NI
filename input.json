@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Test 1",
+        "email": "test1@gmail.com",
+        "phone": "057897987",
+        "accounts": [
+            {
+                "id": 202401,
+                "type": "Savings",
+                "balance": 100000.0,
+                "cards": [
+                    {
+                        "id": 2024030901,
+                        "type": "Primary",
+                        "expiry_date": "08/25",
+                        "credit_limit": 25000.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Test 2",
+        "email": "test2@gmail.com",
+        "phone": "056787980",
+        "accounts": [
+            {
+                "id": 202402,
+                "type": "Credit",
+                "balance": 2500.0,
+                "cards": [
+                    {
+                        "id": 2024030902,
+                        "type": "Supplimentary",
+                        "expiry_date": "03/28",
+                        "credit_limit": 400000.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Test 3",
+        "email": "test3@gmail.com",
+        "phone": "056789309",
+        "accounts": [
+            {
+                "id": 202403,
+                "type": "Debit",
+                "balance": 78000.0,
+                "cards": [
+                    {
+                        "id": 2024030903,
+                        "type": "Primary",
+                        "expiry_date": "10/27",
+                        "credit_limit": 900000.0
+                    }
+                ]
+            }
+        ]
+    }
+]

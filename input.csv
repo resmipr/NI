@@ -1,0 +1,4 @@
+Client ID,Client Name,Client Email,Client Phone,Account ID,Account Type,Account Balance,Card ID,Card Type,Card Expiry Date,Card Credit Limit
+1,Test 1,test1@gmail.com,057897987,202401,Savings,100000,2024030901,Primary,08/25,25000
+2,Test 2,test2@gmail.com,056787980,202402,Credit,2500,2024030902,Supplimentary,03/28,400000
+3,Test 3,test3@gmail.com,056789309,202403,Debit,78000,2024030903,Primary,10/27,900000
